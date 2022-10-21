@@ -26,6 +26,7 @@ provenance:
         - producer
         - licensor
       url: https://surfobs.climate.copernicus.eu/dataaccess/access_eobs.php#datafiles
+  license: proprietary
   license_link:
     title: ECA&D and E-OBS terms and conditions of use
     url: https://www.ecad.eu/documents/ECAD_datapolicy.pdf
